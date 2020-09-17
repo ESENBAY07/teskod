@@ -1,7 +1,7 @@
 <?php
 $token = "1070287106:AAEX1nmvAVFYrzIoC6lqVLoTHtPFt37VFJA";
 define('API_KEY',$token); 
-$admin = "941522151"; //admin id
+$admin = "941522151";
 flush();
 header('Content-Type: application/json; charset=utf-8');
    function del($nomi){
